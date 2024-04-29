@@ -1,0 +1,88 @@
+.nav{
+    display: flex;
+    justify-content: space-evenly;
+}
+.mid-section{
+    display: flex;
+    gap: 15px;
+    font-weight: 400;
+    font-size: 16px;
+    justify-content: center;
+    align-items: center;
+}
+
+.mid-section >p{
+    color: #4d4d4d;
+    font-size: 16px;
+}
+.hero-section{
+   display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-top: 10px;
+    font-size: 16px;
+
+}
+
+.client{
+    align-items: center;
+    margin-right: 10px;
+}
+
+
+.association{
+    color: #3a3434;
+    display: flex;
+}
+.pixel-grade{
+    display: flex;
+    justify-content: right;
+    margin-bottom: 500px;
+}
+
+.logo{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    gap : 90px
+}
+.member{
+    color: #4D4D4D;
+    font-size: 17px;
+}
+.membership{
+    color: #756c6c;
+}
+
+.national{
+    color: #4D4D4D;
+    font-size: 17px;
+}
+
+.association1{
+    color: #756c6c;
+}
+
+.club1{
+    color: #4D4D4D;
+    font-size: 17px;
+}
+
+.group{
+    color: #756c6c;
+}
+
+.membership{
+    margin-right: 10px;
+}
+
+.organization1{
+    border: solid 1px red;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 100px;
+}
+
+
