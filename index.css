@@ -49,6 +49,7 @@
 .member{
     color: #4D4D4D;
     font-size: 17px;
+    text-align: center;
 }
 .membership{
     color: #756c6c;
@@ -80,9 +81,30 @@
     border: solid 1px red;
     margin: auto;
     display: flex;
+    gap: 45px;
     justify-content: center;
-    align-items: center;
+    /*align-items: center;*/
     padding: 100px;
+}
+
+.national1{
+    color: #756c6c;
+}
+
+.national{
+    color: #4D4D4D;
+    font-size: 17px;
+    text-align: center;
+}
+
+.club {
+    color: #4D4D4D;
+    font-size: 17px;
+    text-align: center;
+
+}
+.group1{
+    color: #756c6c;
 }
 
 
